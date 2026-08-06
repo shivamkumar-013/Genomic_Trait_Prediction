@@ -1,6 +1,6 @@
-# Genomic Trait Prediction Using Linear Regression
+#Genomic Trait Prediction Using Linear Regression
 
-## Project Summary
+##Project Summary
 
 In this project, I created a simulated genomic dataset to study how genetic markers influence a quantitative trait.
 
@@ -10,7 +10,7 @@ The data is simulated but follows a realistic statistical relationship between g
 
 ---
 
-## Work Done
+##Work Done
 
 * Generated a dataset containing 500 samples
 * Loaded and analyzed data using Python
@@ -25,7 +25,7 @@ The data is simulated but follows a realistic statistical relationship between g
 
 ---
 
-## Key Observations
+##Key Observations
 
 * Some genetic markers showed a strong relationship with the target trait
 * Correlation analysis helped identify important predictors
@@ -35,13 +35,13 @@ The data is simulated but follows a realistic statistical relationship between g
 
 ---
 
-## Tools Used
+##Tools Used
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, StatsModels, Scikit-Learn, Jupyter Notebook
 
 ---
 
-## Conclusion
+##Conclusion
 
 This project demonstrates how Linear Regression can be used to predict a quantitative trait from genetic marker data.
 
